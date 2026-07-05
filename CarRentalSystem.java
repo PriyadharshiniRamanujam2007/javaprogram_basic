@@ -56,7 +56,7 @@ class car{
 }
 
 	
-public class Basic1{
+public class CarRentalSystem{
 		public static void main(String[] args) {
 			Scanner sc=new Scanner(System.in);
 			car car1=new car("Tata","punch",4,4);
